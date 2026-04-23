@@ -1,0 +1,51 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1776919028417
+	},
+	"gemini": true,
+	"usage": true,
+	"analytics-uuid": "df90cb40-5e90-4991-8daa-38711a62176b",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "115983233841773963363",
+		"email": "stathamruss.co.uk@gmail.com",
+		"email_verified": true,
+		"at_hash": "iQDRTN-eqrFeIBoi-de6KQ",
+		"iat": 1776919057,
+		"exp": 1776922657
+	},
+	"tokens": {
+		"expires_at": 1776938143545,
+		"refresh_token": "1//03soaNW4PGE_1CgYIARAAGAMSNwF-L9Ir5gu5SPFkl17dgC0Kdq2mb8o05so6sVOisegFg5CBna4o2Nh7qERGHxq1v14mO7W_bRo",
+		"scopes": [],
+		"access_token": "ya29.a0Aa7MYiohxFFtK6t0U9pxCd7LhX597bxmG9-LqF21OXwbgKZB2RbH0sJ7ydu8i_C2JdVVRG_lNNYM8SIWhE8Cp3ErD7PkvKmM7MPSLcfcLMleHpd3SN8gihQ5oSDna6G-tjEaFZwZdJDnRRMIHM7qbtBJePMUYfJmmp0j7IuqNCDdwET-DP3CfrTsVGyWF8mRtSIUfaxLKPvjogaCgYKAbISARISFQHGX2MiMIPwAZK2d5AJhiBIuG02Qg0213",
+		"expires_in": 3599,
+		"scope": "openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjY0NzAxNGY5YTRhNGNiYmI2ZTlhYTFmOWUzMGVlNmNjNzBkYTc0MmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE1OTgzMjMzODQxNzczOTYzMzYzIiwiZW1haWwiOiJzdGF0aGFtcnVzcy5jby51a0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjBBSkVCUUhqakp1V1FMaWdQaXVSM0EiLCJpYXQiOjE3NzY5MzQ1NDIsImV4cCI6MTc3NjkzODE0Mn0.opGRbpKKWGdfCZjdJ2qobQfoMechwTbCjKmKGcX32B25St3STYm1KLYLrFtfIKhbJnG9UnBxDXZGMWnRBI_JmUkrneapfu-6G7ZhADYLbdulnZ8zJl3cAey1TQyVqYqxbUuZBD82SB1UG0Lmees0rjpnrd4d6H4mPx3vIrmnvXN2fNnn4r34NTyAwaOE1MiiAQRfRqVh8y9-0g5L5gtvCtkQyD8ojRHG53rFR5Q4foPPN9OejIVviURyvWI0Sb-g9uV326V3skX0C3rX8-5oJ0hBjLr35dNT9szsEM1f9NI226wfCqW49Bah_YrY7WYVz0m47RJfaoj-K9cIxYBmfA"
+	},
+	"activeProjects": {
+		"/data/data/com.termux/files/home": "inversiones-atlantida",
+		"/data/data/com.termux/files/home/inversiones": "inversiones-atlantida",
+		"/data/data/com.termux/files/home/INVERSIONES Atlántida": "inversiones-atlantida"
+	},
+	"apiEnablementCache": {
+		"inversiones-atlantida": {
+			"sqladmin.googleapis.com": true,
+			"firebasedataconnect.googleapis.com": true,
+			"firestore.googleapis.com": true,
+			"runtimeconfig.googleapis.com": true,
+			"cloudfunctions.googleapis.com": true,
+			"firebasestorage.googleapis.com": true
+		}
+	}
+}
